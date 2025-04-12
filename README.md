@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad sohail hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sohail hussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad sohail hussain" target="https://www.linkedin.com/in/sohail-hussain-0665a630a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sohail hussain" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad sohail hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad sohail hussain" height="30" width="40" /></a>
 </p>
 
